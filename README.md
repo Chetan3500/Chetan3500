@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here’s a structured GitHub bio using those prompts:
-
 👋 Hi, I'm Chetan Tekam!
 
 ☁️ Aspiring Cloud Engineer | Learning AWS
@@ -32,6 +30,6 @@ Here’s a structured GitHub bio using those prompts:
 -->
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/chetan-tekam-71b35934a)
-- Email: [tekamchetan3500@gmail.com](tekamchetan3500@gmail.com)
+- Email: tekamchetan3500@gmail.com
 
 🚀 Always eager to learn and grow in the cloud space!
