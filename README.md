@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **Chetan3500/Chetan3500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Here’s a structured GitHub bio using those prompts:
+
+👋 Hi, I'm Chetan Tekam!
+
+☁️ Aspiring Cloud Engineer | Learning AWS
+
+📚 Currently preparing for AWS Cloud Practitioner
+
+🔭 working on beginner-friendly AWS projects and hands-on labs.
+
+<!--
+🌱 I’m currently learning AWS Cloud Practitioner concepts.
+👯 I’m looking to collaborate on beginner-friendly cloud projects.
+🤔 I’m looking for help with AWS best practices and real-world use cases.
+💬 Ask me about cloud computing, AWS basics, and DevOps fundamentals.
+-->
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/chetan-tekam-71b35934a)
+- Email: [tekamchetan3500@gmail.com](tekamchetan3500@gmail.com)
+
+🚀 Always eager to learn and grow in the cloud space!
