@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/chetan-tekam-71b35934a)
 - Email: tekamchetan3500@gmail.com
-
+- [Medium](https://medium.com/@tekamchetan3500)
+- [Hashnode](https://hashnode.com/@Chetan3500)
 🚀 Always eager to learn and grow in the cloud space!
